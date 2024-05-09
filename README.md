@@ -1,2 +1,3 @@
 # st-swd-thin
-Thin ST-LINk/V2 SWD to 6P adapter
+
+A simple adapter for ST-LINK/V2 SWD to 6P
